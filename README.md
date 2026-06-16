@@ -30,3 +30,11 @@ This project analyses 50,000 Amazon sales transactions using Python. The objecti
 ## Dashboard / Visualisation
 
 ![Revenue Analysis](top_categories_revenue.png)
+
+## Key Insights
+
+- Total Revenue: £32.87 Million
+- Highest Revenue Category: Beauty
+- Strongest Region: Middle East
+- Average Customer Rating: 3.0/5
+- Most Popular Payment Method: Wallet
