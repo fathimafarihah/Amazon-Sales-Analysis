@@ -26,3 +26,7 @@ This project analyses 50,000 Amazon sales transactions using Python. The objecti
 - Regional sales analysis
 - Payment method analysis
 - Data visualisations
+
+## Dashboard / Visualisation
+
+![Revenue Analysis](top_categories_revenue.png)
