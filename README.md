@@ -38,3 +38,11 @@ This project analyses 50,000 Amazon sales transactions using Python. The objecti
 - Strongest Region: Middle East
 - Average Customer Rating: 3.0/5
 - Most Popular Payment Method: Wallet
+
+## Business Questions Answered
+
+- Which product categories generate the highest revenue?
+- Which regions contribute most to sales?
+- What payment methods do customers prefer?
+- How do customer ratings compare across the business?
+- Which areas offer opportunities for growth?
